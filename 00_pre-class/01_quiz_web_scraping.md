@@ -7,7 +7,7 @@ By the end of this exercise, you will have a clear roadmap for starting your jou
 ## Questions
 1. **Find 3 to 5 freelance platforms that you can find.**
 
-    (answer here)
+    (fiverr,upwork,remoteok,freelancer,jobstreet)
 
 2. **On Upwork, find 3 to 5 job postings related to "data extraction" or "web scraping." Analyze the job descriptions and identify the top 5 tags or keywords commonly used.**
 
@@ -15,7 +15,7 @@ By the end of this exercise, you will have a clear roadmap for starting your jou
 
 3. **How would you explain the concept of web scraping in your own words?**  
 
-    (answer here)
+    (Web scraping is a method that a developer uses to search or retrieve data on a website )
 
 4. **What is the difference between web scraping, web crawling, data extraction and data wrangling?**  
 
