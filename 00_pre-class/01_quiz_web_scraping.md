@@ -27,7 +27,7 @@ By the end of this exercise, you will have a clear roadmap for starting your jou
 
 6. **What careers can you pursue if you have web scraping skills?**  
 
-    (Data analyst, Data Scientist,SEO,Machine Learing ,freelacer)
+    (Data analyst, Data Scientist,SEO,Machine Learing,freelacer)
 
 7. **Find 3 to 5 companies that offer web scraping or data extraction services. List their websites and analyze how you think you can compete with them.**  
 
@@ -45,5 +45,5 @@ By the end of this exercise, you will have a clear roadmap for starting your jou
     
     Step 2: HTML & CSS basics, inspecting elements
     Step 3: Learn requests and BeautifulSoup
-    Step 4: Build a simple web scraper project (e.g., scrape product names from an online store)
+    Step 4: Build a simple web scraper project (e.g. scrape product names from an online store)
     )
